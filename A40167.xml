@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle concerning the government of Christ and his peace of vvhose kingdome, there shall be no end. By George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40167</idno><idno type="EEBO-CITATION">99825155</idno>
+  <idno type="VID">29530</idno>
+  <idno type="EEBO-PROQUEST">2240859825</idno>
+  
+            <idno type="STC">Wing F1800</idno>
+            <idno type="STC">ESTC R202070</idno>
+            <idno type="PROQUEST">99825155</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825155e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40167)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29530)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1793:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle concerning the government of Christ and his peace of vvhose kingdome, there shall be no end. By George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Benjamin Clark, in George-yard, in Lombard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Early works to 1800.</term>
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29530:1"/>
+            <pb facs="tcp:29530:1"/>
+            <p>AN EPISTLE Concerning the GOVERNMENT OF CHRIST AND HIS PEACE, OF <hi>VVhose Kingdome,</hi> THERE Shall be no End.</p>
+            <p>By <hi>George Fox.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Clark,</hi> in <hi>George-yard,</hi> in <hi>Lom<g ref="char:EOLhyphen"/>bard-street.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:29530:2"/>
+            <pb n="3" facs="tcp:29530:2"/>
+            <head>An Epistle concerning the Government of <hi>Christ</hi> and His Peace, <hi>&amp;c.</hi>
+            </head>
+            <p>COncerning the Government of Christ and his Peace, the encrease of which there shall be no End upon the Throne of <hi>David,</hi> and upon his Kingdome to order it, and to establish it with Judgement, and Justice, from henceforth, and for ever: The Zeal of the Lord of Hosts will perform this.</p>
+            <p>Now <hi>Christ Jesus</hi> the Second <hi>Adam,</hi> the Lord from Heaven, It is He who Rules and Reigns, and Governs in the Hearts of His Saints, who are the Believers in His Light, the Life in Him who is the Governour and Counseller, who Died for their Sins, and is Risen for their Justification, and is the Captain of their Salvation.</p>
+            <p>And <hi>Christ</hi>'s Government in the Hearts of His People, is by His Grace and Truth, that comes from Him: And <hi>Christ Jesus</hi> by whom all things were made, doth enlighten every Man that cometh into the World, which Light is the Life in Him, he saith, <hi>Believe in the Light, that you may become the Children of the Light,</hi> and such have the Light of Life, and by it comes under <hi>Christ</hi>'s Government and Peace, and His order in His Light and Life. Now they that hate His Light, they hate the Life in <hi>Christ</hi> the Heavenly Man; and such will hate <hi>Christ</hi> by whom all things were Made and Created; and hate His Order, and His Justice, and Judgement, and his Light and Life: And such are not like to come into His established Government and Kingdome; so <hi>Christ,</hi> who is the Governour, the Counsellor, the Orderer, He Or<g ref="char:EOLhyphen"/>ders and Governs with His Light, His Life, in the Hearts of all His Bellevers in the Light; and all His Believers in the Light, have the Witness in themselves of <hi>Christ</hi> their Ruler, Counsel<g ref="char:EOLhyphen"/>ler, Orderer, Heavenly Governour, and of His Judgment, Ju<g ref="char:EOLhyphen"/>stice, and Peace; and that of the encrease of His Government, there is no End.</p>
+            <pb n="4" facs="tcp:29530:3"/>
+            <p> Now they that hate the Light, which is the Life in <hi>Christ</hi> the Second <hi>Adam,</hi> the <hi>Lord</hi> from Heaven, they are them that would not have <hi>Christ</hi> Rule over them, nor in them; therefore it Con<g ref="char:EOLhyphen"/>demns them; and, What is the matter that all Men and Wo<g ref="char:EOLhyphen"/>men do not see, but are blind, and are not in Unity? Is it not because they hate the Light, the Life in the Second <hi>Adam,</hi> and will not come to the Light, nor walk in the Light? And then, Is not the Light their Condemnation, who are in Transgressing Old <hi>Adam?</hi> and, How are they like to see or believe, or have faith in <hi>Christ,</hi> that hates His Light, and will not come to it which is the Life in the Second <hi>Adam?</hi> And therefore all that hates His Light, which is the Life in Him, are not like to see, nor receive Faith from Him, that will not believe in His Light, nor come to it, but hate it; and therefore such will hate both His Divine Faith, and the Author of it: And therefore all that do hate the Light, which is the Life in <hi>Christ</hi> which He en<g ref="char:EOLhyphen"/>lightens them withal, they hate His Order, they hate His Go<g ref="char:EOLhyphen"/>vernment, His Rule; yea, <hi>Christ</hi> the Second <hi>Adam,</hi> the Lord from Heaven: And all such haters of <hi>Christ,</hi> His Light, Life, Order, Government, and Counsel, are in a false Liberty, though they may profess <hi>Christ,</hi> or His Government in Words, yet not believing in the Light, and walking in the Light, the Life of <hi>Christ,</hi> they have no true Fellowship one with another, but are in Confusion; and have no true Fellowship with the Belie<g ref="char:EOLhyphen"/>vers in the Light, the Life in <hi>Christ,</hi> nor with the Son, and the Father; for, How should they? For until they come to Believe in the Light, the Life in the Second <hi>Adam.</hi> They cannot see their own States, they are in the blind Birth; for none sees, nor en<g ref="char:EOLhyphen"/>ters into the Kingdome of <hi>God,</hi> till they are Born again: and those that are Born again, are the Believers in the Light, the Life in Christ, and so become Children of the Light, grafted in<g ref="char:EOLhyphen"/>to Christ; all such do know, and see the true Liberty in Christ Jesus the Second <hi>Adam:</hi> All such do see, and know, that all false Liberty is out of the Light, the Life in the Second <hi>A<g ref="char:EOLhyphen"/>dam;</hi> in Old <hi>Adam</hi> in the Transgression.</p>
+            <p>And <hi>Christ</hi> that doth enlighten every Man that cometh into the World, which is the Life in Him; such comes to Christ, and are grafted into Him the Head, and so holds Christ their Head, by whom all things were made, and Created; who is over all, from Everlasting to Everlasting, the First, and the Last, the Be<g ref="char:EOLhyphen"/>ginning,
+<pb n="5" facs="tcp:29530:3"/>and the Ending; these are they that see His Order, His Government, and His Rule in their Hearts, and receives His Law of Spiritual Life, and Live, and walks in it, which makes them free from the Law of Sin and Death. These see Christ to be the Author, and Finisher of their Holy, Divine, precious Faith: And their Faith stands in Christ, who is the Au<g ref="char:EOLhyphen"/>thor of it, who hath all Power in Heaven and Earth given to Him: And the Mistery of this Faith they hold in a pure Conscience, and do know the Law of this Faith, and the Law of Love that God hath shed in their Hearts through <hi>Jesus Christ:</hi> and so in this Light, Faith, and Life, that they have from <hi>Jesus</hi> the Second <hi>Adam,</hi> the Lord from Heaven; they come all to be of one Faith, of one Light, and one Life; and so of one Mind, Heart, and Judgment, in this New Covenant of Light and Life; so in it they are under the Government, and Counsel, and Or<g ref="char:EOLhyphen"/>der of <hi>Jesus,</hi> that He establishes in His Everlasting Covenant of Light and Life in their Hearts.</p>
+            <p>
+               <hi>Secondly,</hi> The Law came by <hi>Moses,</hi> and all the <hi>Jews</hi> were to be under the Law in the Old Covenant; and this Law served till <hi>Christ</hi> (the Seed) came, in His New Covenant; He is come, and now Grace and Truth is come by <hi>Jesus Christ,</hi> the great Go<g ref="char:EOLhyphen"/>vernour. And now this Grace, and this Truth is come from Him, into the Hearts of all His Believers.</p>
+            <p>And with, and in this Grace and Truth, Christ Rules in the Hearts of them that receives His Grace and Truth; and with this Grace and Truth, and in it, every Believer and Saint, receiveth <hi>Christ</hi> their Governour, and his Order, and his Counsel, and Heaven<g ref="char:EOLhyphen"/>ly Judgment, and Justice from the Heavenly Man, in his esta<g ref="char:EOLhyphen"/>blished Government, which he establishes with his Grace and Truth. Now this Grace of God which brings Salvation, which hath appeared unto all Men, which does Manifest, that all Men have a day of Grace and Favour: Now this must needs be the special Grace of <hi>God,</hi> which brings Salvation, which hath ap<g ref="char:EOLhyphen"/>peared unto all Men. Now then, not receiving this Grace and Favour of God, but turning this Grace into wantonness, and walking despitful against the Spirit of Grace; therein they are hardned, and blind, and turns that unto wantonness, and walks despitefully against it; which should teach them, and bring their Salvation: and therefore such comes to be blind, and hardned against the Grace and Favour of God, that turns it into wanton<g ref="char:EOLhyphen"/>ness,
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:29530:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:29530:4"/>
+               <pb n="6" facs="tcp:29530:5"/>as I said before, and walks despitefully against the Spirit of Grace and Truth; and such turns against God and Christ, from whence Grace and Truth comes, and from, and against his People that are established in the Grace of God, that brings their Salvation: though such may profess God and Christ in words only, and his Grace, and Truth; their profession will come to no<g ref="char:EOLhyphen"/>thing, except they receive his Grace and Truth in their Hearts: They that do receive Christ in his Grace and Truth, which comes from him; they know his Government in the Truth, and in the Covenant of Grace; yea, in their Hearts, and knows their Gra<g ref="char:EOLhyphen"/>cious, and true Liberty in the Grace and Truth, and in Christ from whence it comes, and his Holy, and Heavenly Order in his Grace, and his Reign in their Hearts. And all such that walks despitefully against the Spirit of Grace, and turns the Grace into wantonness, though such may profess God and Christ, and his Grace and Truth, with their wanton and spiteful Spirit, their profession will come to nothing, and all their Liberty is false, and in the Flesh, in Old <hi>Adam</hi> in Transgression: For true Liberty is in the Grace and Truth that is come by Jesus, which Leads up into Jesus from whence it comes, in whom the ever<g ref="char:EOLhyphen"/>lasting true Liberty is.</p>
+            <p>For Christ, who is the Truth, and Holy, and Pure, he Reigns in the Truth, and in his Grace: And therefore every Man and Woman, must with this Grace and Truth in their Hearts (which they have from Christ) feel, and see Christ's Reign, and Rule in their Hearts: And Him in his Heavenly Eternal everlasting Government.</p>
+            <p>
+               <hi>Thirdly,</hi> The Lord spoke by his Prophet <hi>Joel,</hi> That <hi>It shall come to pass in the last Dayes,</hi> That God will pour out of his Spirit upon all Flesh, <hi>&amp;c. Joel</hi> 2.28.</p>
+            <p>And <hi>Peter</hi> said, This is that which was spoken by the Pro<g ref="char:EOLhyphen"/>phet <hi>Joel, It shall come to pass in the last Dayes (saith God)</hi> that <hi>I will pour out of my Spirit upon all Flesh, and your Sons, and your Daughters shall Prophesy: Your Young-men shall see Visions, and your Old-men shall dream Dreams; and on my Servants, and on my Hand-maids, I will pour out in those dayes of my Spirit, and they shall Prophesy,</hi> Acts 2.17, 18.</p>
+            <p>Now it is God that pours out of his Spirit upon all Flesh, by which Sons, Daughters, Young-men, Old-men, Servants, and Hand-maids, have their Visions, and Prophesies, and Dreams;
+<pb n="7" facs="tcp:29530:5"/>And these last Dayes, are the Dayes of <hi>Christ,</hi> in his Gospel, and New-Covenant.</p>
+            <p>It is said in the Old-Covenant, That <hi>God</hi> did pour out of his Spirit upon the House of <hi>Israel,</hi> and the House of <hi>Judah.</hi> But in the Dayes of the New-Covenant of Light and Grace, <hi>God</hi> poured out of his Spirit upon all Flesh, both <hi>Jews</hi> and <hi>Gentiles.</hi> Now all Flesh must come to the Spirit of God, and be led, and guided by it, if they will see <hi>Christ's</hi> heavenly spiritual Govern<g ref="char:EOLhyphen"/>ment and Order: And with this Spirit, to know <hi>Christ</hi> the spi<g ref="char:EOLhyphen"/>ritual Man, to Rule and Govern in their Hearts. And all that by this Spirit are Circumcised, they Eat of the heavenly Pass<g ref="char:EOLhyphen"/>over, or their Bread from Heaven. And all that are Baptized with the Spirit, are Baptized into one Body, and do all Drink into one Spirit.</p>
+            <p>So here they are One, in this Spiritual Fellowship, which is the True Church-Fellowship: which Church is the Pillar and Ground of Truth, which Christ is the Heavenly, and Spiritual Head of; and well He may: For He is the Author of their Faith, and the Author of their Light and Life, Grace and Truth, and Spirit, and Gospel of Peace and Salvation; by which He Rules in the Hearts of His Living Members, the Church. And all they that Grieve, Vex, Quench, and Rebel against the <hi>Spi<g ref="char:EOLhyphen"/>rit,</hi> comes to be Blind, as the <hi>Jews;</hi> and will not See with their Eyes, nor Hear with their Ears, nor Perceive with their Hearts; and such may profess Christ in the New-Testament, and the A<g ref="char:EOLhyphen"/>postles Words, and the Government, and Order of Christ; as the <hi>Jews</hi> did profess the Old-Testament, and Christ to come; but they would not Receive Him then, when He was come. No more do they now, that profess He is come, who Vexes, and Quenches His <hi>Spirit,</hi> and Grieves it, and Rebels against it, and Errs from it. And such are not like to Receive Christ in their Heart, nor come into his heavenly Order, and established peaceable Government; as those that are led by the Spirit of God, which are the Sons of God, and keeps the Unity of the Spirit; which Holy Spirit is the Bond of Peace amongst all Christ's Subjects, Lambs, and Sheep, that Feed together in his Pasture of Life. For it is God that gives the heavenly Under<g ref="char:EOLhyphen"/>standing of Christ's established Government, and Order. And they that Quench, and Vex, and Rebel against the Spirit of God, will Rebel against Christ's established Government, and
+<pb n="8" facs="tcp:29530:6"/>Order; and his People that are in it, that are led by the Spi<g ref="char:EOLhyphen"/>rit of Wisdome and Understanding, and a found Mind. And such as will not hear the Spirit of God in themselves, will nei<g ref="char:EOLhyphen"/>ther hear God nor Christ, nor his Sheep, nor such as he sends, but Rebel against them.</p>
+            <p>
+               <hi>Fourthly,</hi> Now the Gospel being Preached to, or in every Crea<g ref="char:EOLhyphen"/>ture under Heaven; which Gospel is the Power of God to Sal<g ref="char:EOLhyphen"/>vation, to every One that Believes: So that all that Receives this Gospel, the Power of God unto Salvation in their Hearts, Receives Christ the Power of God, and his Government, and Order in the Power. And Christ Reigns in their Hearts, in his Power: and such comes into the Gospel-Order. And they that come to be Heirs of the Gospel, the Power of God to Salva<g ref="char:EOLhyphen"/>tion; are Heirs of Christ's peaceable established Government; and are true Subjects to Christ's Power, and established peace<g ref="char:EOLhyphen"/>able Government: And so this Gospel, the Power of God to Salvation, is Peaceable, Joyful, and Comfortable, which is the Gospel of Christ, the <hi>Second Adam the Lord from Heaven;</hi> and is not called the Gospel of Old Adam in Transgression: And this Gospel, which is the Power of God unto Salvation; it keeps all that Believes in it, in the Everlasting Joy, Peace, and Com<g ref="char:EOLhyphen"/>fort, and in Order; for it is the Everlasting Gospel, which brings Life, and Immortality to Light; by which they see over the De<g ref="char:EOLhyphen"/>vil, and before he was, that hath Blinded them, and Darkned them from Life and Immortality. So in this Gospel that hath brought Life, and Immortality to Light in <hi>God</hi>'s People, both Men and Women, they are Established in the Order of it; in which, they do serve the Eternal, Everlasting God of Truth.</p>
+            <p>Now all they that do not Receive the Gospel of Christ, the Power of God to Salvation, which is Preached to, or in every Creature under Heaven, Life and Immortality is not brought to Light in them. And such the God of the World hath Blinded; and so they remain Blind under the God of the World; and such are Blind concerning the Order of the Gospel, and are ignorant of their Salvation, and of that Joy, and Comfort, and Peace of the Gospel; neither can they serve <hi>God</hi> in the Gospel, though they may profess <hi>Christ,</hi> and his Gospel in words; yet such hath no Comfort of it: And therefore, such as Disobeys the Gospel of Christ, the Power of God to Salvation; and will not Receive it, nor Believe in it; How can they Receive the Order of the
+<pb n="9" facs="tcp:29530:6"/>Gospel of Christ the Heavenly Man, from whence the Gospel comes. to Receive him, to Reign in their Hearts, when they will not Receive his Gospel, the Power of God to Salvation in their Hearts. And again, How can they receive his People, or believe his People that be in the Order of the Gospel of Christ; and hath Received it, and Him in their Hearts, who Disobeys it, and will not Receive it in their own Hearts? Such are not like to come into the Order of the Gospel that Disobeys it. Such will Disobey <hi>Christ,</hi> and will not Regard his People, in whom he Reigns, who walk in the Order of his Gospel, the Power of <hi>God</hi> unto Salvation.</p>
+            <p>Now it's <hi>Christ</hi> the <hi>Second Adam,</hi> that Lighteth every Man, that cometh into the World, with the Light which is the Life in Himself; and every One that Believeth in the Light, and be<g ref="char:EOLhyphen"/>comes Children of Light, and walks in it; they walk in Unity and Fellowship, and in the Order of the Light, and Govern<g ref="char:EOLhyphen"/>ment of <hi>Christ:</hi> In such <hi>Christ</hi> doth Reign. And all them that hate this Light, and will not come to it, nor believe in it, they are Comdemned by it.</p>
+            <p>Now the <hi>Grace of God that brings Salvation, hath appeared unto all Men,</hi> and all Men that Receives this Grace and Truth that is come by Jesus, they Receive Christ from whence it comes, in their Hearts; and so their Teacher, and their Salvation; and so comes into Christs Government and Order, in the Truth, and into the Covenant of Grace. And they that hate the Truth, and turn the Grace into Wantonness, and walk despitefully against the Spirit of Grace, they turn against Christ his Order and Go<g ref="char:EOLhyphen"/>vernment, and his Power also.</p>
+            <p>And God pouring out of his Spirit upon all Flesh: All that are Led by the Spirit of God and Christ, are the Sons of God; and such are Hearers of Christ's spiritual Order and Govern<g ref="char:EOLhyphen"/>ment. And they that quench the Spirit of God, and Rebels a<g ref="char:EOLhyphen"/>gainst it; Rebels against Christ's Order and Government, and him in his People; and their spiritual Fellowship, and the Go<g ref="char:EOLhyphen"/>spel of Salvation being Preached to every Creature under Hea<g ref="char:EOLhyphen"/>ven; which Gospel, is the Power of God Every Creature under Heaven must Receive this Gospel in their Hearts, if they Re<g ref="char:EOLhyphen"/>ceive Christ and his Government, and his Order of the Gospel, and Him to Rule in their Hearts.</p>
+            <p>And all you that have Received it, have Received the Com<g ref="char:EOLhyphen"/>fort
+<pb n="10" facs="tcp:29530:7"/>of it; and those that Disobey, and Rebel against the Go<g ref="char:EOLhyphen"/>spel, the Power of God; such Disobeys, and Rebels against God and Christ, and his Government, and his People, which are in the Order of the Gospel, the Power of God. And as it is said, Christ is in you, except you be Reprobates; and all that Re<g ref="char:EOLhyphen"/>ceives Christ in them, it is by his Light, which is the Life in him, and the Grace and Truth that comes by Jesus; and the Faith that he is the Author of, and his Spirit and Gospel. This they must Receive in their Hearts, if they Receive Christ in them.</p>
+            <p>And Christ said to his Disciples and Followers, That He would send them the Spirit of Truth, the Comforter, which should proceed from the Father, and the Son, which should Lead them into all Truth. And he should Reprove the World of their Sin, Righteousness, and Judgment: So that which Leads the Be<g ref="char:EOLhyphen"/>lievers, and Disciples of Christ into all Truth, and is their Com<g ref="char:EOLhyphen"/>forter; is the Reprover of the World of their Sin, Righteous<g ref="char:EOLhyphen"/>ness, and Judgment. So here that which is the Worlds Reprover, is the Saints Comforter, and Leader into all Truth; and so into all true Fellowship, and true Liberty. And so this Holy Spirit and Comforter, does not proceed from Old <hi>Adam,</hi> nor none of his Followers; but from the Father, and the Son. And so eve<g ref="char:EOLhyphen"/>ry One is to have Oyl in your own Lamps from the Heavenly Olive-Tree, that your Lamps may Burn alwayes, both night and day in your <hi>Tabernacles,</hi> looking to your <hi>High-Priest,</hi> who will Feed your Lamps with Heavenly Oyl.</p>
+            <p>And every One have Heavenly Salt in your selves to Savour withal, what is Earthly, and what is Heavenly; and what is from Below, and what is from Above; and what is out of the Truth, and what is in the Truth.</p>
+            <p>And that every One may keep their own Vine in their own Garden, and their own Lilly in their own Field, or Orchard; which Lilly doth exceed <hi>Solomon</hi> in all his Glory: And every one have the Word of Faith in their Hearts and Mouths, to O<g ref="char:EOLhyphen"/>bey, and do, which will Sanctify, and make you Holy, and to Reconcile you to God.</p>
+            <p>And every one have the Anointing, or Unction within you, which you have from the Father or Holy One; so that in it you may continue in the Father, and in the Son.</p>
+            <p>And every one continue in the Grace of God, which will Teach you how to Live, and what to deny, and will bring your
+<pb n="11" facs="tcp:29530:7"/>Salvation, and establish you upon Christ, the Rock and Foun<g ref="char:EOLhyphen"/>dation, from whom the Grace does come.</p>
+            <p>And every one abide in the holy, and divine, and precious Faith, which you do hold in a pure Conscience, by which Faith you do Live, and have Victory over that which displeaseth God. And in this Faith you do please God, which Jesus Christ, the Lord from Heaven, is the Author, and Finisher of.</p>
+            <p>And every one that hath Digged deep, and found the Pearl of great Price; and hath sold all, and purchased the Field; then the Field, and Pearl is your own: such doth know a through Redemption.</p>
+            <p>And all you Believers in the Light, which is the Life in Christ, and are become the Children of Light, walk in the Light, the Life, and in Christ, as you have Received him.</p>
+            <p>And every one mind the heavenly Leaven, that will Leaven you into a New Lump.</p>
+            <p>And every one keep the Feast of Christ our passover, with this heavenly Unleavened Bread, in Sincerity and Truth.</p>
+            <p>And every one mind the Light, that God hath Commanded to shine out of Darkness, and hath shined in your Hearts, to give you the Light of the Knowledge of the Glory of God, in the Face of Jesus Christ your Saviour; that the excellency of the Power, may be of God, and not of your selves. In this you are sensible of his heavenly Treasure in your own earthly Ves<g ref="char:EOLhyphen"/>sels; and every one have Water in your own Wells and Cestorns, and heavenly Fruit on your Trees, which <hi>God</hi> hath Planted.</p>
+            <p>
+               <hi>Nebuchadnezzar,</hi> though his greatness reached to Heaven as a Tree, Yet he was to be hewen down, until he knew the most High Ruleth in the Kingdom of Men; and that the Living may know that the most High Ruleth in the Kingdom of Men; <hi>And the God of Heaven shall set up a Kingdom which shall never be Destroyed: and the Kingdom shall not be left to other People,</hi> Dan. 2.44. <hi>And the Stone that smote the Image became a great Moun<g ref="char:EOLhyphen"/>tain, and filled the whole Earth,</hi> vers. 35.</p>
+            <p>
+               <hi>They shall not hurt nor destroy in my holy Mountain: for the Earth shall be full of the Knowledge of the</hi> Lord, <hi>as the Waters cover the Sea,</hi> Isa. 11.9.</p>
+            <closer>
+               <dateline>
+                  <date>27th. 8th. Month, 1681.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="1" facs="tcp:29530:8"/>
+            <head>Books Sold by <hi>Benjamin Clark</hi> in <hi>George</hi>-Yard in <hi>Lombard</hi>-Street, Booksel<g ref="char:EOLhyphen"/>ler.</head>
+            <list>
+               <item>
+                  <hi>THe</hi> Works of the Long Mournful, and Sorely Distressed <hi>Isaac Pennington,</hi> in <hi>Folio.</hi>
+               </item>
+               <item>George Keith, Way to the City of God <hi>Described,</hi> in <hi>Octavo.</hi>
+               </item>
+               <item>— Universality of the Grace of God, <hi>in Quarto.</hi>
+               </item>
+               <item>— <hi>The</hi> True Christ owned, <hi>in Octavo.</hi>
+               </item>
+               <item>— Quakerisme no Popery.</item>
+               <item>Oriental Philosophy, <hi>by</hi> Ebn-Yokden, <hi>in Octavo.</hi>
+               </item>
+               <item>
+                  <hi>George Fox,</hi> Testimony what we believe concerning Christ, <hi>in Quarto.</hi>
+               </item>
+               <item>
+                  <hi>W. Shewen, The</hi> True Christians Faith and Belief, <hi>in Octavo.</hi>
+               </item>
+               <item>Compendium Truim Linguarum, <hi>by J. Materne.</hi>
+               </item>
+               <item>Midnight Thoughts, being excellent Meditations, and divine Experiences of an Eminent Person, <hi>in Twelves.</hi>
+               </item>
+               <item>Cambridge <hi>Bibles in</hi> Folio.</item>
+               <item>Oxford <hi>Bibles in</hi> Folio.</item>
+               <item>Cambridge <hi>Bibles in</hi> Quarto.</item>
+               <item>Oxford <hi>Bibles in</hi> Quarto.</item>
+               <item>London <hi>Bibles in</hi> Quarto, Octavo, <hi>or</hi> Twelves, <hi>or</hi> Twenty-Fours.</item>
+               <item>School Books of several Sorts.</item>
+               <item>
+                  <hi>Coles</hi> English Dictionary, <hi>and</hi> Latin Dictionary.</item>
+               <item>
+                  <hi>As likewise</hi> Stationary Ware, <hi>as</hi> Paper, Paper-Books, Jour<g ref="char:EOLhyphen"/>nals, <hi>and</hi> Leigers, <hi>and</hi> Blank-bonds of various Sorts.</item>
+            </list>
+            <pb facs="tcp:29530:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
